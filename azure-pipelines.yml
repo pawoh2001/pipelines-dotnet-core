@@ -2,7 +2,7 @@
 # Build and test ASP.NET Core projects targeting .NET Core.
 # Add steps that run tests, create a NuGet package, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
-[![Build Status](https://dev.azure.com/pawoh/UAT/_apis/build/status/pawoh2001.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/pawoh/UAT/_build/latest?definitionId=7&branchName=master)
+
 trigger:
 - master
 
